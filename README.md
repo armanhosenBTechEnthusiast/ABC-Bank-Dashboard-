@@ -1,8 +1,6 @@
 # ABC Bank Power BI Dashboard
 <img width="1882" height="793" alt="Screenshot 2026-05-13 190028" src="https://github.com/user-attachments/assets/346dfc20-44dc-432d-9f52-559b3898127a" />
 
-
-
 # 🏦 ABC Bank Customer & Balance Analytics Dashboard
 
 ## 📌 Overview
@@ -48,9 +46,9 @@ This project analyzes **ABC Bank's** customer demographics, balance distribution
 ## 🚀 Project Files
 
 ### 🔹 Excel Dataset
-
+https://github.com/armanhosenBTechEnthusiast/ABC-Bank-Dashboard-/blob/main/Final-Assignment-Power-Bi.xlsx
 ### 🔹 Power BI Dashboard
-
+https://github.com/armanhosenBTechEnthusiast/ABC-Bank-Dashboard-/blob/main/Final%20Assignment.pbix
 ---
 
 ## 📊 Dashboard Visuals Summary
@@ -68,7 +66,6 @@ This project analyzes **ABC Bank's** customer demographics, balance distribution
 ---
 
 ## 👨‍💻 Author
-
 **Arman Hosen**  
 BBA in Finance and Banking / Data Enthusiast  
 Jashore University of science and technology 
